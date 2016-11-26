@@ -1,5 +1,6 @@
 {
-  "name": "debugger",
+  "private": "false",
+  "name": "view-debugger",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuyake0084/debugger.git"
+    "url": "git+https://github.com/yuyake0084/view-debugger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yuyake0084/debugger/issues"
+    "url": "https://github.com/yuyake0084/view-debugger/issues"
   },
-  "homepage": "https://github.com/yuyake0084/debugger#readme"
+  "homepage": "https://github.com/yuyake0084/view-debugger#readme"
 }
